@@ -1,0 +1,25 @@
+<engine:UXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:engine="UnityEngine.UIElements" xmlns:editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../UIElementsSchema/UIElements.xsd" editor-extension-mode="True">
+    <engine:Foldout text="Events" name="Events" data-source-path="Mama">
+        <engine:Label text="Events Trigger" style="font-size: 24px; -unity-font-style: bold;" />
+        <engine:VisualElement name="EventsContainer" style="flex-grow: 1;">
+            <engine:EnumField label="Event Type" value="Center" type="UnityEngine.TextAlignment, UnityEngine.TextRenderingModule" name="EventEnum" binding-path="eventType" />
+            <engine:VisualElement name="DialogueContainer" style="flex-grow: 1;">
+                <engine:Label text="Dialogue" style="font-size: 18px;" />
+                <editor:PropertyField binding-path="dialogue" />
+            </engine:VisualElement>
+            <engine:VisualElement name="SetLocationContainer" style="flex-grow: 1;">
+                <engine:Label text="Set Location" style="font-size: 18px;" />
+                <editor:PropertyField binding-path="setLocation" />
+            </engine:VisualElement>
+            <engine:VisualElement name="EmoteContainer" style="flex-grow: 1;">
+                <engine:Label text="Emote" style="font-size: 18px;" />
+                <editor:PropertyField binding-path="setEmotes" />
+            </engine:VisualElement>
+            <engine:VisualElement name="QuestionContainer" style="flex-grow: 1;">
+                <engine:Label text="Questions" style="font-size: 18px;" />
+                <editor:PropertyField binding-path="questions" />
+            </engine:VisualElement>
+            <editor:PropertyField binding-path="interval" />
+        </engine:VisualElement>
+    </engine:Foldout>
+</engine:UXML>

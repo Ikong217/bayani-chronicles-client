@@ -1,0 +1,26 @@
+fileFormatVersion: 2
+guid: b6562d93efad5410fabd6bccd325948b
+timeCreated: 1466064441
+licenseType: Store
+TrueTypeFontImporter:
+  serializedVersion: 3
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 1
+  characterPadding: 0
+  includeFontData: 1
+  fontNames: []
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 65182
+  packageName: SimpleUI - Simple Game UI Menu System
+  packageVersion: 1.1.1
+  assetPath: Assets/SimpleUI/Assets/HWYGNRRW.TTF
+  uploadId: 187439

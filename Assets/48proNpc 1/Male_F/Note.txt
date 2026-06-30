@@ -1,0 +1,5 @@
+Please position the specified files above the head and hair layers in the I02 and W02 actions during the assembly process.
+F_MU01_I02.png
+F_MU02_I02.png
+F_MU01_W02.png
+F_MU02_W02.png

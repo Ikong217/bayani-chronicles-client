@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 19d03beae340d401b80e39e6194ec79f
+timeCreated: 1465918296
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 65182
+  packageName: SimpleUI - Simple Game UI Menu System
+  packageVersion: 1.1.1
+  assetPath: Assets/SimpleUI/Assets/Animator.controller
+  uploadId: 187439

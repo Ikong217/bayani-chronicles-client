@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 1fc85b1b70d264838ac5160a4a1dc2e4
+timeCreated: 1466034085
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 65182
+  packageName: SimpleUI - Simple Game UI Menu System
+  packageVersion: 1.1.1
+  assetPath: Assets/SimpleUI/Scripts/ConfirmationMenu.cs
+  uploadId: 187439

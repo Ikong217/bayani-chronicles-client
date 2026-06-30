@@ -1,0 +1,6 @@
+When using the relevant hairstyle or hat, please place the following files at the bottom of all layers except for the shadows.
+N_FHHU01_D_I.png
+N_FHHU01_D_W.png
+N_FH01D_I.png
+N_FH01D_W.png
+N_FHD04_W.png

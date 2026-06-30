@@ -1,0 +1,1438 @@
+fileFormatVersion: 2
+guid: 65502cf0799c46ac99ed006a9a7dafd9
+AssetOrigin:
+  serializedVersion: 1
+  productId: 216394
+  packageName: Modern School - Game Kit - Base Characters
+  packageVersion: 1.0
+  assetPath: Assets/2DPIXX/Modern School - Game Kit - Base Characters/Sprites/2DPIXX
+    - Modern School  - Characters - Emoticons.png
+  uploadId: 488018
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8188590790809192192
+    second: 2DPIXX - Modern School  - Characters - Emoticons_0
+  - first:
+      213: -7410520889458586319
+    second: 2DPIXX - Modern School  - Characters - Emoticons_1
+  - first:
+      213: 8302299790915215205
+    second: 2DPIXX - Modern School  - Characters - Emoticons_2
+  - first:
+      213: 108364393831236430
+    second: 2DPIXX - Modern School  - Characters - Emoticons_3
+  - first:
+      213: 7850189252899991105
+    second: 2DPIXX - Modern School  - Characters - Emoticons_4
+  - first:
+      213: -2417078912820156598
+    second: 2DPIXX - Modern School  - Characters - Emoticons_5
+  - first:
+      213: 4070490600740461215
+    second: 2DPIXX - Modern School  - Characters - Emoticons_6
+  - first:
+      213: 6730753544256066966
+    second: 2DPIXX - Modern School  - Characters - Emoticons_7
+  - first:
+      213: 1894176865235720648
+    second: 2DPIXX - Modern School  - Characters - Emoticons_8
+  - first:
+      213: -6659416102910197604
+    second: 2DPIXX - Modern School  - Characters - Emoticons_9
+  - first:
+      213: 6799118527606442592
+    second: 2DPIXX - Modern School  - Characters - Emoticons_10
+  - first:
+      213: 2800576290086408427
+    second: 2DPIXX - Modern School  - Characters - Emoticons_11
+  - first:
+      213: 1990852064928589066
+    second: 2DPIXX - Modern School  - Characters - Emoticons_12
+  - first:
+      213: 8511663051632807996
+    second: 2DPIXX - Modern School  - Characters - Emoticons_13
+  - first:
+      213: -4101548718401258268
+    second: 2DPIXX - Modern School  - Characters - Emoticons_14
+  - first:
+      213: 6991381368384685912
+    second: 2DPIXX - Modern School  - Characters - Emoticons_15
+  - first:
+      213: 6971326589596563442
+    second: 2DPIXX - Modern School  - Characters - Emoticons_16
+  - first:
+      213: -7245292731249998996
+    second: 2DPIXX - Modern School  - Characters - Emoticons_17
+  - first:
+      213: 3989991071990518933
+    second: 2DPIXX - Modern School  - Characters - Emoticons_18
+  - first:
+      213: -2651841486465670171
+    second: 2DPIXX - Modern School  - Characters - Emoticons_19
+  - first:
+      213: -5220788546121558524
+    second: 2DPIXX - Modern School  - Characters - Emoticons_20
+  - first:
+      213: -823206815615458869
+    second: 2DPIXX - Modern School  - Characters - Emoticons_21
+  - first:
+      213: 3673103060883795068
+    second: 2DPIXX - Modern School  - Characters - Emoticons_22
+  - first:
+      213: -5638825165117797832
+    second: 2DPIXX - Modern School  - Characters - Emoticons_23
+  - first:
+      213: 8845757664523204768
+    second: 2DPIXX - Modern School  - Characters - Emoticons_24
+  - first:
+      213: -6487052639181264119
+    second: 2DPIXX - Modern School  - Characters - Emoticons_25
+  - first:
+      213: -1952370461033465179
+    second: 2DPIXX - Modern School  - Characters - Emoticons_26
+  - first:
+      213: 2026575765511739771
+    second: 2DPIXX - Modern School  - Characters - Emoticons_27
+  - first:
+      213: 4365041514558276162
+    second: 2DPIXX - Modern School  - Characters - Emoticons_28
+  - first:
+      213: -4252596040472004514
+    second: 2DPIXX - Modern School  - Characters - Emoticons_29
+  - first:
+      213: -8513872153663432379
+    second: 2DPIXX - Modern School  - Characters - Emoticons_30
+  - first:
+      213: -4905828824425361465
+    second: 2DPIXX - Modern School  - Characters - Emoticons_31
+  - first:
+      213: 6054740214406975458
+    second: 2DPIXX - Modern School  - Characters - Emoticons_32
+  - first:
+      213: 2710514361087441230
+    second: 2DPIXX - Modern School  - Characters - Emoticons_33
+  - first:
+      213: -7029549535859996981
+    second: 2DPIXX - Modern School  - Characters - Emoticons_34
+  - first:
+      213: -7576090752751846819
+    second: 2DPIXX - Modern School  - Characters - Emoticons_35
+  - first:
+      213: -7073612938554842350
+    second: 2DPIXX - Modern School  - Characters - Emoticons_36
+  - first:
+      213: 1021543422536088430
+    second: 2DPIXX - Modern School  - Characters - Emoticons_37
+  - first:
+      213: -7507867727791710740
+    second: 2DPIXX - Modern School  - Characters - Emoticons_38
+  - first:
+      213: 7967499686643324054
+    second: 2DPIXX - Modern School  - Characters - Emoticons_39
+  - first:
+      213: -6125430250060737817
+    second: 2DPIXX - Modern School  - Characters - Emoticons_40
+  - first:
+      213: -5720483400031541977
+    second: 2DPIXX - Modern School  - Characters - Emoticons_41
+  - first:
+      213: -6990905967825865704
+    second: 2DPIXX - Modern School  - Characters - Emoticons_42
+  - first:
+      213: -3931920246316322701
+    second: 2DPIXX - Modern School  - Characters - Emoticons_43
+  - first:
+      213: 1486972827558595962
+    second: 2DPIXX - Modern School  - Characters - Emoticons_44
+  - first:
+      213: 6799274799738856694
+    second: 2DPIXX - Modern School  - Characters - Emoticons_45
+  - first:
+      213: 5047013413281294912
+    second: 2DPIXX - Modern School  - Characters - Emoticons_46
+  - first:
+      213: 1423479991354077819
+    second: 2DPIXX - Modern School  - Characters - Emoticons_47
+  - first:
+      213: -1686288040757717518
+    second: 2DPIXX - Modern School  - Characters - Emoticons_48
+  - first:
+      213: -6063238737282254486
+    second: 2DPIXX - Modern School  - Characters - Emoticons_49
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 2DPIXX - Modern School  - Characters - Emoticons_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1152
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00978ce8f084c5e80800000000000000
+      internalID: -8188590790809192192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern School  - Characters - Emoticons_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1152
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13d853f738a882990800000000000000
+      internalID: -7410520889458586319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern School  - Characters - Emoticons_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1152
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56f1d402ca1b73370800000000000000
+      internalID: 8302299790915215205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern School  - Characters - Emoticons_3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1152
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e438c9097dcf08100800000000000000
+      internalID: 108364393831236430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern School  - Characters - Emoticons_4
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1152
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14e61be888971fc60800000000000000
+      internalID: 7850189252899991105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern School  - Characters - Emoticons_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1024
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a476447f88fc47ed0800000000000000
+      internalID: -2417078912820156598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern School  - Characters - Emoticons_6
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1024
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9a93be82a94d7830800000000000000
+      internalID: 4070490600740461215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern School  - Characters - Emoticons_7
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1024
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 695951cffa0786d50800000000000000
+      internalID: 6730753544256066966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern School  - Characters - Emoticons_8
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1024
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c9532ab2d7794a10800000000000000
+      internalID: 1894176865235720648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern School  - Characters - Emoticons_9
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1024
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c90858666500593a0800000000000000
+      internalID: -6659416102910197604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern School  - Characters - Emoticons_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06a42cf07425b5e50800000000000000
+      internalID: 6799118527606442592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern School  - Characters - Emoticons_11
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be05bf83c45add620800000000000000
+      internalID: 2800576290086408427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern School  - Characters - Emoticons_12
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a05eb62b76de0ab10800000000000000
+      internalID: 1990852064928589066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern School  - Characters - Emoticons_13
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c301460e2708f1670800000000000000
+      internalID: 8511663051632807996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern School  - Characters - Emoticons_14
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ecfbbaeb2f5417c0800000000000000
+      internalID: -4101548718401258268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern School  - Characters - Emoticons_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8578ad70050660160800000000000000
+      internalID: 6991381368384685912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern School  - Characters - Emoticons_16
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f7732af8902fb060800000000000000
+      internalID: 6971326589596563442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern School  - Characters - Emoticons_17
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c63cf1ce5ac837b90800000000000000
+      internalID: -7245292731249998996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern School  - Characters - Emoticons_18
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59499f67dbb4f5730800000000000000
+      internalID: 3989991071990518933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern School  - Characters - Emoticons_19
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e3e196d734c23bd0800000000000000
+      internalID: -2651841486465670171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern School  - Characters - Emoticons_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4061ffc6a780c87b0800000000000000
+      internalID: -5220788546121558524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern School  - Characters - Emoticons_21
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc16f8243c16394f0800000000000000
+      internalID: -823206815615458869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern School  - Characters - Emoticons_22
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7ce06fd5cb79f230800000000000000
+      internalID: 3673103060883795068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern School  - Characters - Emoticons_23
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83ace9a536edeb1b0800000000000000
+      internalID: -5638825165117797832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern School  - Characters - Emoticons_24
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a83813aab172ca70800000000000000
+      internalID: 8845757664523204768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern School  - Characters - Emoticons_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90b275a9efb59f5a0800000000000000
+      internalID: -6487052639181264119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern School  - Characters - Emoticons_26
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aa7228e869c7e4e0800000000000000
+      internalID: -1952370461033465179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern School  - Characters - Emoticons_27
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b791eb5ebe7df1c10800000000000000
+      internalID: 2026575765511739771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern School  - Characters - Emoticons_28
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2424419612eb39c30800000000000000
+      internalID: 4365041514558276162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern School  - Characters - Emoticons_29
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e58fe62be6ebbf4c0800000000000000
+      internalID: -4252596040472004514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern School  - Characters - Emoticons_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5491dc97266a8d980800000000000000
+      internalID: -8513872153663432379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern School  - Characters - Emoticons_31
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cf01472daefaebb0800000000000000
+      internalID: -4905828824425361465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern School  - Characters - Emoticons_32
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ef00074522c60450800000000000000
+      internalID: 6054740214406975458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern School  - Characters - Emoticons_33
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e493633537ead9520800000000000000
+      internalID: 2710514361087441230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern School  - Characters - Emoticons_34
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc68d08f0f5027e90800000000000000
+      internalID: -7029549535859996981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern School  - Characters - Emoticons_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5aba18a9915cd690800000000000000
+      internalID: -7576090752751846819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern School  - Characters - Emoticons_36
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 213e4de828a75dd90800000000000000
+      internalID: -7073612938554842350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern School  - Characters - Emoticons_37
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6b76e694504d2e00800000000000000
+      internalID: 1021543422536088430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern School  - Characters - Emoticons_38
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ced1b587412bec790800000000000000
+      internalID: -7507867727791710740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern School  - Characters - Emoticons_39
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 694596a50ce329e60800000000000000
+      internalID: 7967499686643324054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern School  - Characters - Emoticons_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e292b834a91efaa0800000000000000
+      internalID: -6125430250060737817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern School  - Characters - Emoticons_41
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 725e995f7a2cc90b0800000000000000
+      internalID: -5720483400031541977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern School  - Characters - Emoticons_42
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 814b499cf005bfe90800000000000000
+      internalID: -6990905967825865704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern School  - Characters - Emoticons_43
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37036214e530f69c0800000000000000
+      internalID: -3931920246316322701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern School  - Characters - Emoticons_44
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7dc94988e9c2a410800000000000000
+      internalID: 1486972827558595962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern School  - Characters - Emoticons_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f423b00860eb5e50800000000000000
+      internalID: 6799274799738856694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern School  - Characters - Emoticons_46
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04a634b85f79a0640800000000000000
+      internalID: 5047013413281294912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern School  - Characters - Emoticons_47
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b72398d928731c310800000000000000
+      internalID: 1423479991354077819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern School  - Characters - Emoticons_48
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f595a516f91998e0800000000000000
+      internalID: -1686288040757717518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Modern School  - Characters - Emoticons_49
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6937eb2e7c0bdba0800000000000000
+      internalID: -6063238737282254486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      2DPIXX - Modern School  - Characters - Emoticons_0: -8188590790809192192
+      2DPIXX - Modern School  - Characters - Emoticons_1: -7410520889458586319
+      2DPIXX - Modern School  - Characters - Emoticons_10: 6799118527606442592
+      2DPIXX - Modern School  - Characters - Emoticons_11: 2800576290086408427
+      2DPIXX - Modern School  - Characters - Emoticons_12: 1990852064928589066
+      2DPIXX - Modern School  - Characters - Emoticons_13: 8511663051632807996
+      2DPIXX - Modern School  - Characters - Emoticons_14: -4101548718401258268
+      2DPIXX - Modern School  - Characters - Emoticons_15: 6991381368384685912
+      2DPIXX - Modern School  - Characters - Emoticons_16: 6971326589596563442
+      2DPIXX - Modern School  - Characters - Emoticons_17: -7245292731249998996
+      2DPIXX - Modern School  - Characters - Emoticons_18: 3989991071990518933
+      2DPIXX - Modern School  - Characters - Emoticons_19: -2651841486465670171
+      2DPIXX - Modern School  - Characters - Emoticons_2: 8302299790915215205
+      2DPIXX - Modern School  - Characters - Emoticons_20: -5220788546121558524
+      2DPIXX - Modern School  - Characters - Emoticons_21: -823206815615458869
+      2DPIXX - Modern School  - Characters - Emoticons_22: 3673103060883795068
+      2DPIXX - Modern School  - Characters - Emoticons_23: -5638825165117797832
+      2DPIXX - Modern School  - Characters - Emoticons_24: 8845757664523204768
+      2DPIXX - Modern School  - Characters - Emoticons_25: -6487052639181264119
+      2DPIXX - Modern School  - Characters - Emoticons_26: -1952370461033465179
+      2DPIXX - Modern School  - Characters - Emoticons_27: 2026575765511739771
+      2DPIXX - Modern School  - Characters - Emoticons_28: 4365041514558276162
+      2DPIXX - Modern School  - Characters - Emoticons_29: -4252596040472004514
+      2DPIXX - Modern School  - Characters - Emoticons_3: 108364393831236430
+      2DPIXX - Modern School  - Characters - Emoticons_30: -8513872153663432379
+      2DPIXX - Modern School  - Characters - Emoticons_31: -4905828824425361465
+      2DPIXX - Modern School  - Characters - Emoticons_32: 6054740214406975458
+      2DPIXX - Modern School  - Characters - Emoticons_33: 2710514361087441230
+      2DPIXX - Modern School  - Characters - Emoticons_34: -7029549535859996981
+      2DPIXX - Modern School  - Characters - Emoticons_35: -7576090752751846819
+      2DPIXX - Modern School  - Characters - Emoticons_36: -7073612938554842350
+      2DPIXX - Modern School  - Characters - Emoticons_37: 1021543422536088430
+      2DPIXX - Modern School  - Characters - Emoticons_38: -7507867727791710740
+      2DPIXX - Modern School  - Characters - Emoticons_39: 7967499686643324054
+      2DPIXX - Modern School  - Characters - Emoticons_4: 7850189252899991105
+      2DPIXX - Modern School  - Characters - Emoticons_40: -6125430250060737817
+      2DPIXX - Modern School  - Characters - Emoticons_41: -5720483400031541977
+      2DPIXX - Modern School  - Characters - Emoticons_42: -6990905967825865704
+      2DPIXX - Modern School  - Characters - Emoticons_43: -3931920246316322701
+      2DPIXX - Modern School  - Characters - Emoticons_44: 1486972827558595962
+      2DPIXX - Modern School  - Characters - Emoticons_45: 6799274799738856694
+      2DPIXX - Modern School  - Characters - Emoticons_46: 5047013413281294912
+      2DPIXX - Modern School  - Characters - Emoticons_47: 1423479991354077819
+      2DPIXX - Modern School  - Characters - Emoticons_48: -1686288040757717518
+      2DPIXX - Modern School  - Characters - Emoticons_49: -6063238737282254486
+      2DPIXX - Modern School  - Characters - Emoticons_5: -2417078912820156598
+      2DPIXX - Modern School  - Characters - Emoticons_6: 4070490600740461215
+      2DPIXX - Modern School  - Characters - Emoticons_7: 6730753544256066966
+      2DPIXX - Modern School  - Characters - Emoticons_8: 1894176865235720648
+      2DPIXX - Modern School  - Characters - Emoticons_9: -6659416102910197604
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

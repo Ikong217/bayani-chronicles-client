@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5db06ab66908b40e2a1eba8d0004fe72
+timeCreated: 1466065821
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 65182
+  packageName: SimpleUI - Simple Game UI Menu System
+  packageVersion: 1.1.1
+  assetPath: Assets/SimpleUI/_README.rtf
+  uploadId: 187439

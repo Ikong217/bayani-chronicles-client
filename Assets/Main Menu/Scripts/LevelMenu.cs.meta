@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: c7824032812f24612888a8cf98dd4f29
+timeCreated: 1465972935
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 65182
+  packageName: SimpleUI - Simple Game UI Menu System
+  packageVersion: 1.1.1
+  assetPath: Assets/SimpleUI/Scripts/LevelMenu.cs
+  uploadId: 187439

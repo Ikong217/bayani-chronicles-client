@@ -1,0 +1,21 @@
+<engine:UXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:engine="UnityEngine.UIElements" xmlns:editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../UIElementsSchema/UIElements.xsd" editor-extension-mode="True">
+    <engine:Foldout text="Dialogue Container" name="Foldout" style="-unity-font-style: normal;">
+        <engine:Label text="Dialogue Box" style="font-size: 24px; -unity-font-style: bold;" />
+        <engine:VisualElement name="ObjectContainer" style="flex-grow: 1;">
+            <engine:VisualElement name="ObjectInsideContainer" style="flex-grow: 1;">
+                <engine:EnumField label="Type" value="Center" type="UnityEngine.TextAlignment, UnityEngine.TextRenderingModule" binding-path="dialogueType" name="DialogueType" />
+                <engine:VisualElement name="CharacterArea" style="flex-grow: 1;">
+                    <editor:PropertyField name="isPlayer" binding-path="player" />
+                    <engine:VisualElement name="CharacterContainer" style="flex-grow: 1;">
+                        <editor:ObjectField label="Character" binding-path="characterObj" />
+                    </engine:VisualElement>
+                    <editor:PropertyField name="CamFollow" binding-path="cameraFollow" />
+                </engine:VisualElement>
+                <engine:VisualElement name="Item" style="flex-grow: 1;">
+                    <editor:ObjectField label="Item Sprite" binding-path="sprite" />
+                </engine:VisualElement>
+            </engine:VisualElement>
+        </engine:VisualElement>
+        <engine:TextField label="Message" placeholder-text="Your Message Here" multiline="true" name="Text" binding-path="line" style="align-items: flex-start; align-self: stretch; justify-content: space-between; flex-direction: column; width: auto;" />
+    </engine:Foldout>
+</engine:UXML>

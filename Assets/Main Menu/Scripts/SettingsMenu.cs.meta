@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: c4148246676e04a0abed28dfbd6c77eb
+timeCreated: 1465917184
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 65182
+  packageName: SimpleUI - Simple Game UI Menu System
+  packageVersion: 1.1.1
+  assetPath: Assets/SimpleUI/Scripts/SettingsMenu.cs
+  uploadId: 187439

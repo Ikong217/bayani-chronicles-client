@@ -1,0 +1,13 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" editor-extension-mode="True">
+    <ui:Label text="Set Emotes" style="font-size: 24px; -unity-font-style: bold;" />
+    <ui:VisualElement name="CustomEmoteContainer" style="flex-grow: 1;">
+        <ui:VisualElement name="EmoteContainer" style="flex-grow: 1;">
+            <uie:PropertyField name="player" binding-path="player" />
+            <ui:VisualElement name="CharacterContainer" style="flex-grow: 1;">
+                <uie:ObjectField label="Character Object" binding-path="character" />
+            </ui:VisualElement>
+            <ui:EnumField label="Emotes" value="Center" type="UnityEngine.TextAlignment, UnityEngine.TextRenderingModule" binding-path="emotes" />
+            <uie:PropertyField binding-path="duration" />
+        </ui:VisualElement>
+    </ui:VisualElement>
+</ui:UXML>

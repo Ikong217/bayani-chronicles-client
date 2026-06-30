@@ -1,0 +1,598 @@
+fileFormatVersion: 2
+guid: 48cd16192557baf4c8f35f7e2a2f1caf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5991263308181628807
+    second: Y_MHU02_W_0
+  - first:
+      213: 5187766182389137276
+    second: Y_MHU02_W_1
+  - first:
+      213: -8403214046755532238
+    second: Y_MHU02_W_2
+  - first:
+      213: 7738659773196357017
+    second: Y_MHU02_W_3
+  - first:
+      213: -6528007531908016025
+    second: Y_MHU02_W_4
+  - first:
+      213: 108760482620534084
+    second: Y_MHU02_W_5
+  - first:
+      213: -5180763969393784604
+    second: Y_MHU02_W_6
+  - first:
+      213: -4904764977037262165
+    second: Y_MHU02_W_7
+  - first:
+      213: -6473834567010152093
+    second: Y_MHU02_W_8
+  - first:
+      213: 8177084456106702708
+    second: Y_MHU02_W_9
+  - first:
+      213: 1024783460903911763
+    second: Y_MHU02_W_10
+  - first:
+      213: 5733031128758843990
+    second: Y_MHU02_W_11
+  - first:
+      213: -592152086002230864
+    second: Y_MHU02_W_12
+  - first:
+      213: 2931938952811938597
+    second: Y_MHU02_W_13
+  - first:
+      213: -3756428685597510643
+    second: Y_MHU02_W_14
+  - first:
+      213: -8363925685307194743
+    second: Y_MHU02_W_15
+  - first:
+      213: -3411357680425826529
+    second: Y_MHU02_W_16
+  - first:
+      213: 6454638904097615604
+    second: Y_MHU02_W_17
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Y_MHU02_W_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 338
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7876ff75c3e352350800000000000000
+      internalID: 5991263308181628807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Y_MHU02_W_1
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 338
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7fb61f5bd5aef740800000000000000
+      internalID: 5187766182389137276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Y_MHU02_W_2
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 337
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 232509bb859c16b80800000000000000
+      internalID: -8403214046755532238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Y_MHU02_W_3
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 338
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99d49f2001e356b60800000000000000
+      internalID: 7738659773196357017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Y_MHU02_W_4
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 338
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7685c819cbbd765a0800000000000000
+      internalID: -6528007531908016025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Y_MHU02_W_5
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 337
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44d623c2515628100800000000000000
+      internalID: 108760482620534084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Y_MHU02_W_6
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 242
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e804236e9a3a18b0800000000000000
+      internalID: -5180763969393784604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Y_MHU02_W_7
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 243
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba2caec6d36ceebb0800000000000000
+      internalID: -4904764977037262165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Y_MHU02_W_8
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 241
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36117bad2c15826a0800000000000000
+      internalID: -6473834567010152093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Y_MHU02_W_9
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 242
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 477bb902df6da7170800000000000000
+      internalID: 8177084456106702708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Y_MHU02_W_10
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 243
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3518fdec023c83e00800000000000000
+      internalID: 1024783460903911763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Y_MHU02_W_11
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 241
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65a7debcf61df8f40800000000000000
+      internalID: 5733031128758843990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Y_MHU02_W_12
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 146
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b994dca0d048c7f0800000000000000
+      internalID: -592152086002230864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Y_MHU02_W_13
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 147
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5238c7981f650b820800000000000000
+      internalID: 2931938952811938597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Y_MHU02_W_14
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 145
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d047fda430c7edbc0800000000000000
+      internalID: -3756428685597510643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Y_MHU02_W_15
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 146
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 982cf7737ed5deb80800000000000000
+      internalID: -8363925685307194743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Y_MHU02_W_16
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 147
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f170b68834c68a0d0800000000000000
+      internalID: -3411357680425826529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Y_MHU02_W_17
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 145
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fea72892eb739950800000000000000
+      internalID: 6454638904097615604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Y_MHU02_W_0: 5991263308181628807
+      Y_MHU02_W_1: 5187766182389137276
+      Y_MHU02_W_10: 1024783460903911763
+      Y_MHU02_W_11: 5733031128758843990
+      Y_MHU02_W_12: -592152086002230864
+      Y_MHU02_W_13: 2931938952811938597
+      Y_MHU02_W_14: -3756428685597510643
+      Y_MHU02_W_15: -8363925685307194743
+      Y_MHU02_W_16: -3411357680425826529
+      Y_MHU02_W_17: 6454638904097615604
+      Y_MHU02_W_2: -8403214046755532238
+      Y_MHU02_W_3: 7738659773196357017
+      Y_MHU02_W_4: -6528007531908016025
+      Y_MHU02_W_5: 108760482620534084
+      Y_MHU02_W_6: -5180763969393784604
+      Y_MHU02_W_7: -4904764977037262165
+      Y_MHU02_W_8: -6473834567010152093
+      Y_MHU02_W_9: 8177084456106702708
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

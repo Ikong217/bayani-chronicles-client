@@ -1,0 +1,33 @@
+<engine:UXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:engine="UnityEngine.UIElements" xmlns:editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../UIElementsSchema/UIElements.xsd" editor-extension-mode="True">
+    <engine:Foldout text="Foldout" name="SetLocation" view-data-key="FoldOut">
+        <engine:VisualElement name="AllElementLocation" style="flex-grow: 1;">
+            <engine:Label text="Character Set Location" style="font-size: 20px; -unity-font-style: bold;" />
+            <engine:VisualElement name="CharacterContainer" style="flex-grow: 1; height: auto;">
+                <engine:Label text="Character to Move" style="font-size: 18px;" />
+                <engine:VisualElement name="CharacterContainer" style="flex-grow: 1; height: auto;">
+                    <editor:PropertyField name="isPlayer" binding-path="player" />
+                    <engine:VisualElement name="CharacterShowField" style="flex-grow: 1; height: auto;">
+                        <editor:ObjectField label="Character Oject" name="ObjectField" binding-path="character" />
+                    </engine:VisualElement>
+                </engine:VisualElement>
+            </engine:VisualElement>
+            <engine:VisualElement name="ActionsContainer" style="flex-grow: 1;">
+                <engine:Label text="Actions&#10;" style="font-size: 18px;" />
+                <engine:VisualElement name="VisualElement" style="flex-grow: 1;">
+                    <editor:PropertyField name="WalkBool" binding-path="walk" />
+                    <engine:VisualElement name="Locationcontainer" style="flex-grow: 1;">
+                        <editor:ObjectField label="Target Location" binding-path="tartgetLocation" />
+                    </engine:VisualElement>
+                    <engine:VisualElement name="DirectionContainer" style="flex-grow: 1;">
+                        <engine:EnumField label="Direction" value="Center" type="UnityEngine.TextAlignment, UnityEngine.TextRenderingModule" binding-path="direction" />
+                    </engine:VisualElement>
+                </engine:VisualElement>
+            </engine:VisualElement>
+            <engine:VisualElement name="Cooldown" style="flex-grow: 1;">
+                <engine:Label text="Others" style="font-size: 18px;" />
+                <editor:PropertyField binding-path="camFollow" />
+                <editor:PropertyField binding-path="cooldown" />
+            </engine:VisualElement>
+        </engine:VisualElement>
+    </engine:Foldout>
+</engine:UXML>
